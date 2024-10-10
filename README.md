@@ -79,6 +79,12 @@ Save the project by pressing CTRL+S.<br>
 Click on Run from the top-right corner to execute the workflow.
 
 ## UiPath WorkFlow:
+![image](https://github.com/user-attachments/assets/97818d17-6210-48b3-8869-a3d4466d76e2)
+![image](https://github.com/user-attachments/assets/9025e414-e02b-4714-9cbe-1612e7afbe49)
+![image](https://github.com/user-attachments/assets/7db25ce0-ab34-4543-9eae-27caf264973f)
+![image](https://github.com/user-attachments/assets/b7c327ab-9fae-499a-82b1-6990b7746756)
+![image](https://github.com/user-attachments/assets/bf841335-f747-4f56-ae3f-1424df685d61)
+![image](https://github.com/user-attachments/assets/4003a251-b99b-4b49-9e8d-23fc7e2f7b33)
 
 
 ## Result:
